@@ -2,10 +2,112 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="160281e9-558c-4c71-800f-24b55d945c2e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/related-widget-wrapper.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_base.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_breadcrumbs.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_changeform.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_changelist.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_content.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_dashboard.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_delete-confirmation.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_forms.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_globals.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_header.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_helpers.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_login.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_messages.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_modules.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_object-tools.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_relatedpopup.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_sidebar.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_tables.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_variables.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/icons/_variables.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/icons/fonts/jet-icons.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/icons/fonts/jet-icons.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/icons/fonts/jet-icons.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/icons/fonts/jet-icons.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/icons/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/_jquery-ui.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-icons_222222_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-icons_2e83ff_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-icons_454545_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-icons_888888_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-icons_cd0a0a_256x240.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/select2/_layout.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/select2/_multiple.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/select2/_single.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/default/_variables.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/default/base.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/default/base.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/default/base.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/default/jquery-ui.theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/default/jquery-ui.theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/default/jquery-ui.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/default/select2.theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/default/select2.theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/default/select2.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/green/_variables.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/green/base.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/green/base.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/green/base.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/green/jquery-ui.theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/green/jquery-ui.theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/green/jquery-ui.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/green/select2.theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/green/select2.theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/green/select2.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/_variables.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/base.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/base.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/base.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/jquery-ui.theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/jquery-ui.theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/jquery-ui.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/select2.theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/select2.theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/select2.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/_variables.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/base.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/base.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/base.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/jquery-ui.theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/jquery-ui.theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/jquery-ui.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/select2.theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/select2.theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/select2.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-green/base.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-green/base.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-green/base.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-green/jquery-ui.theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-green/jquery-ui.theme.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-green/jquery-ui.theme.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-green/select2.theme.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/vendor.css" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/BNUZ_ALGYun/settings.py" afterPath="$PROJECT_DIR$/BNUZ_ALGYun/settings.py" />
       <change beforePath="$PROJECT_DIR$/BNUZ_ALGYun/urls.py" afterPath="$PROJECT_DIR$/BNUZ_ALGYun/urls.py" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/base.css" afterPath="$PROJECT_DIR$/static/admin/css/base.css" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/changelists.css" afterPath="$PROJECT_DIR$/static/admin/css/changelists.css" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/dashboard.css" afterPath="$PROJECT_DIR$/static/admin/css/dashboard.css" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/fonts.css" afterPath="$PROJECT_DIR$/static/admin/css/fonts.css" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/forms.css" afterPath="$PROJECT_DIR$/static/admin/css/forms.css" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/login.css" afterPath="$PROJECT_DIR$/static/admin/css/login.css" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/rtl.css" afterPath="$PROJECT_DIR$/static/admin/css/rtl.css" />
+      <change beforePath="$PROJECT_DIR$/static/admin/css/widgets.css" afterPath="$PROJECT_DIR$/static/admin/css/widgets.css" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/SelectFilter2.js" afterPath="$PROJECT_DIR$/static/admin/js/SelectFilter2.js" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js" afterPath="$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js" />
+      <change beforePath="$PROJECT_DIR$/static/admin/js/admin/RelatedObjectLookups.js" afterPath="$PROJECT_DIR$/static/admin/js/admin/RelatedObjectLookups.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,8 +124,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BNUZ_ALGYun/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="158" column="0" lean-forward="true" selection-start-line="158" selection-start-column="0" selection-end-line="158" selection-end-column="0" />
+            <state relative-caret-position="594">
+              <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -69,7 +171,7 @@
         <entry file="file://$PROJECT_DIR$/BNUZ_ALGYun/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="359">
-              <caret line="25" column="43" lean-forward="true" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+              <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
               <folding>
                 <element signature="e#635#667#0" expanded="true" />
               </folding>
@@ -209,19 +311,6 @@
             <path>
               <item name="BNUZ_ALGYun" type="b2602c69:ProjectViewProjectNode" />
               <item name="BNUZ_ALGYun" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="blogs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BNUZ_ALGYun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BNUZ_ALGYun" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="blogs" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BNUZ_ALGYun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BNUZ_ALGYun" type="462c0819:PsiDirectoryNode" />
               <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -298,6 +387,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -305,8 +395,8 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="manage.py@BNUZ_ALGYun" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.66932726" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="manage.py@BNUZ_ALGYun" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66932726" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -417,7 +507,7 @@
     <entry file="file://$PROJECT_DIR$/BNUZ_ALGYun/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
-          <caret line="25" column="43" lean-forward="true" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+          <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
           <folding>
             <element signature="e#635#667#0" expanded="true" />
           </folding>
@@ -426,8 +516,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BNUZ_ALGYun/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="158" column="0" lean-forward="true" selection-start-line="158" selection-start-column="0" selection-end-line="158" selection-end-column="0" />
+        <state relative-caret-position="594">
+          <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
           <folding />
         </state>
       </provider>
