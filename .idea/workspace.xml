@@ -2,112 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="160281e9-558c-4c71-800f-24b55d945c2e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/admin/js/related-widget-wrapper.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_base.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_breadcrumbs.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_changeform.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_changelist.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_content.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_dashboard.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_delete-confirmation.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_forms.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_globals.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_header.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_helpers.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_login.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_messages.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_modules.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_object-tools.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_relatedpopup.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_sidebar.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_tables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/_variables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/icons/_variables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/icons/fonts/jet-icons.eot" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/icons/fonts/jet-icons.svg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/icons/fonts/jet-icons.ttf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/icons/fonts/jet-icons.woff" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/icons/style.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/_jquery-ui.theme.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-bg_flat_0_aaaaaa_40x100.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-bg_flat_75_ffffff_40x100.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-bg_glass_55_fbf9ee_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-bg_glass_75_dadada_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-bg_glass_75_e6e6e6_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-bg_glass_95_fef1ec_1x400.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-icons_222222_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-icons_2e83ff_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-icons_454545_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-icons_888888_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/jquery-ui/images/ui-icons_cd0a0a_256x240.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/select2/_layout.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/select2/_multiple.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/select2/_single.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/default/_variables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/default/base.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/default/base.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/default/base.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/default/jquery-ui.theme.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/default/jquery-ui.theme.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/default/jquery-ui.theme.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/default/select2.theme.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/default/select2.theme.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/default/select2.theme.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/green/_variables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/green/base.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/green/base.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/green/base.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/green/jquery-ui.theme.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/green/jquery-ui.theme.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/green/jquery-ui.theme.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/green/select2.theme.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/green/select2.theme.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/green/select2.theme.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/_variables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/base.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/base.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/base.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/jquery-ui.theme.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/jquery-ui.theme.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/jquery-ui.theme.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/select2.theme.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/select2.theme.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/select2.theme.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/_variables.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/base.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/base.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/base.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/jquery-ui.theme.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/jquery-ui.theme.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/jquery-ui.theme.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/select2.theme.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/select2.theme.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/select2.theme.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-green/base.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-green/base.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-green/base.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-green/jquery-ui.theme.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-green/jquery-ui.theme.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-green/jquery-ui.theme.scss" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-green/select2.theme.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/jet/css/vendor.css" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/BNUZ_ALGYun/settings.py" afterPath="$PROJECT_DIR$/BNUZ_ALGYun/settings.py" />
-      <change beforePath="$PROJECT_DIR$/BNUZ_ALGYun/urls.py" afterPath="$PROJECT_DIR$/BNUZ_ALGYun/urls.py" />
+      <change beforePath="$PROJECT_DIR$/common_static/blogs/image/avatar.png" afterPath="$PROJECT_DIR$/common_static/blogs/image/avatar.png" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change beforePath="$PROJECT_DIR$/static/admin/css/base.css" afterPath="$PROJECT_DIR$/static/admin/css/base.css" />
-      <change beforePath="$PROJECT_DIR$/static/admin/css/changelists.css" afterPath="$PROJECT_DIR$/static/admin/css/changelists.css" />
-      <change beforePath="$PROJECT_DIR$/static/admin/css/dashboard.css" afterPath="$PROJECT_DIR$/static/admin/css/dashboard.css" />
-      <change beforePath="$PROJECT_DIR$/static/admin/css/fonts.css" afterPath="$PROJECT_DIR$/static/admin/css/fonts.css" />
-      <change beforePath="$PROJECT_DIR$/static/admin/css/forms.css" afterPath="$PROJECT_DIR$/static/admin/css/forms.css" />
-      <change beforePath="$PROJECT_DIR$/static/admin/css/login.css" afterPath="$PROJECT_DIR$/static/admin/css/login.css" />
-      <change beforePath="$PROJECT_DIR$/static/admin/css/rtl.css" afterPath="$PROJECT_DIR$/static/admin/css/rtl.css" />
-      <change beforePath="$PROJECT_DIR$/static/admin/css/widgets.css" afterPath="$PROJECT_DIR$/static/admin/css/widgets.css" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/SelectFilter2.js" afterPath="$PROJECT_DIR$/static/admin/js/SelectFilter2.js" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js" afterPath="$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/admin/RelatedObjectLookups.js" afterPath="$PROJECT_DIR$/static/admin/js/admin/RelatedObjectLookups.js" />
+      <change beforePath="$PROJECT_DIR$/static/blogs/image/avatar.png" afterPath="$PROJECT_DIR$/static/blogs/image/avatar.png" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" afterPath="$PROJECT_DIR$/templates/base.html" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" afterPath="$PROJECT_DIR$/templates/home.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -124,7 +25,7 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BNUZ_ALGYun/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
+            <state relative-caret-position="693">
               <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
               <folding />
             </state>
@@ -182,9 +83,23 @@
       <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-              <folding />
+            <state relative-caret-position="-1045">
+              <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#1265#1271#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#1638#1644#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#li#0;n#ul#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#1;n#li#0;n#ul#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#1902#1908#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#a#2;n#li#0;n#ul#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#a#2;n#li#0;n#ul#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#2169#2175#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -192,19 +107,21 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1100">
-              <caret line="44" column="14" lean-forward="false" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
+            <state relative-caret-position="231">
+              <caret line="7" column="116" lean-forward="false" selection-start-line="7" selection-start-column="116" selection-end-line="7" selection-end-column="116" />
               <folding>
-                <element signature="e#435#441#0#HTML" expanded="true" />
-                <element signature="e#441#447#0#HTML" expanded="true" />
-                <element signature="e#552#558#0#HTML" expanded="true" />
-                <element signature="e#558#564#0#HTML" expanded="true" />
-                <element signature="e#779#785#0#HTML" expanded="true" />
-                <element signature="e#785#791#0#HTML" expanded="true" />
-                <element signature="e#1652#1658#0#HTML" expanded="true" />
-                <element signature="e#1658#1664#0#HTML" expanded="true" />
-                <element signature="e#1857#1863#0#HTML" expanded="true" />
-                <element signature="e#1863#1869#0#HTML" expanded="true" />
+                <element signature="e#426#455#0#HTML" expanded="true" />
+                <element signature="e#597#603#0#HTML" expanded="true" />
+                <element signature="e#635#641#0#HTML" expanded="true" />
+                <element signature="e#641#647#0#HTML" expanded="true" />
+                <element signature="e#716#722#0#HTML" expanded="true" />
+                <element signature="e#1218#1247#0#HTML" expanded="true" />
+                <element signature="e#1616#1659#0#HTML" expanded="true" />
+                <element signature="e#1713#1719#0#HTML" expanded="true" />
+                <element signature="e#1719#1725#0#HTML" expanded="true" />
+                <element signature="e#1894#1938#0#HTML" expanded="true" />
+                <element signature="e#1963#1969#0#HTML" expanded="true" />
+                <element signature="e#1969#1975#0#HTML" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -241,10 +158,10 @@
         <option value="$PROJECT_DIR$/apps/blog/models.py" />
         <option value="$PROJECT_DIR$/apps/blog/views.py" />
         <option value="$PROJECT_DIR$/templates/post.html" />
-        <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/apps/blog/admin.py" />
-        <option value="$PROJECT_DIR$/templates/home.html" />
         <option value="$PROJECT_DIR$/BNUZ_ALGYun/urls.py" />
+        <option value="$PROJECT_DIR$/templates/home.html" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/BNUZ_ALGYun/settings.py" />
       </list>
     </option>
@@ -306,7 +223,45 @@
             <path>
               <item name="BNUZ_ALGYun" type="b2602c69:ProjectViewProjectNode" />
               <item name="BNUZ_ALGYun" type="462c0819:PsiDirectoryNode" />
+              <item name="common_static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BNUZ_ALGYun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BNUZ_ALGYun" type="462c0819:PsiDirectoryNode" />
+              <item name="common_static" type="462c0819:PsiDirectoryNode" />
+              <item name="blogs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BNUZ_ALGYun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BNUZ_ALGYun" type="462c0819:PsiDirectoryNode" />
+              <item name="common_static" type="462c0819:PsiDirectoryNode" />
+              <item name="blogs" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BNUZ_ALGYun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BNUZ_ALGYun" type="462c0819:PsiDirectoryNode" />
+              <item name="common_static" type="462c0819:PsiDirectoryNode" />
+              <item name="blogs" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BNUZ_ALGYun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BNUZ_ALGYun" type="462c0819:PsiDirectoryNode" />
               <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BNUZ_ALGYun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BNUZ_ALGYun" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="blogs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BNUZ_ALGYun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BNUZ_ALGYun" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="blogs" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BNUZ_ALGYun" type="b2602c69:ProjectViewProjectNode" />
@@ -324,6 +279,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wejudge1.0" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -423,11 +379,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/common_static/blogs/image/avatar.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common_static/blogs/css/blog.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2079">
@@ -457,39 +408,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="14" column="41" lean-forward="false" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/apps/blog/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="902">
           <caret line="28" column="69" lean-forward="false" selection-start-line="28" selection-start-column="69" selection-end-line="28" selection-end-column="69" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="44" column="14" lean-forward="false" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
-          <folding>
-            <element signature="e#435#441#0#HTML" expanded="true" />
-            <element signature="e#441#447#0#HTML" expanded="true" />
-            <element signature="e#552#558#0#HTML" expanded="true" />
-            <element signature="e#558#564#0#HTML" expanded="true" />
-            <element signature="e#779#785#0#HTML" expanded="true" />
-            <element signature="e#785#791#0#HTML" expanded="true" />
-            <element signature="e#1652#1658#0#HTML" expanded="true" />
-            <element signature="e#1658#1664#0#HTML" expanded="true" />
-            <element signature="e#1857#1863#0#HTML" expanded="true" />
-            <element signature="e#1863#1869#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -514,9 +438,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/blogs/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common_static/blogs/image/avatar.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1045">
+          <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#1265#1271#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#0;n#li#0;n#ul#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#1638#1644#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#li#0;n#ul#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#1;n#li#0;n#ul#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#1902#1908#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#a#2;n#li#0;n#ul#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#a#2;n#li#0;n#ul#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#2169#2175#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/blogs/image/avatar.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="116" lean-forward="false" selection-start-line="7" selection-start-column="116" selection-end-line="7" selection-end-column="116" />
+          <folding>
+            <element signature="e#426#455#0#HTML" expanded="true" />
+            <element signature="e#597#603#0#HTML" expanded="true" />
+            <element signature="e#635#641#0#HTML" expanded="true" />
+            <element signature="e#641#647#0#HTML" expanded="true" />
+            <element signature="e#716#722#0#HTML" expanded="true" />
+            <element signature="e#1218#1247#0#HTML" expanded="true" />
+            <element signature="e#1616#1659#0#HTML" expanded="true" />
+            <element signature="e#1713#1719#0#HTML" expanded="true" />
+            <element signature="e#1719#1725#0#HTML" expanded="true" />
+            <element signature="e#1894#1938#0#HTML" expanded="true" />
+            <element signature="e#1963#1969#0#HTML" expanded="true" />
+            <element signature="e#1969#1975#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BNUZ_ALGYun/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
+        <state relative-caret-position="693">
           <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
           <folding />
         </state>
