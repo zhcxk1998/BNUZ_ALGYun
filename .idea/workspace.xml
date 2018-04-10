@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="160281e9-558c-4c71-800f-24b55d945c2e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/apps/account/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/apps/account/admin.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/apps/account/apps.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/apps/account/migrations/0001_initial.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/apps/account/migrations/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/apps/account/models.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/apps/account/tests.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/apps/account/views.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/BNUZ_ALGYun/settings.py" afterPath="$PROJECT_DIR$/BNUZ_ALGYun/settings.py" />
-      <change beforePath="$PROJECT_DIR$/BNUZ_ALGYun/urls.py" afterPath="$PROJECT_DIR$/BNUZ_ALGYun/urls.py" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-    </list>
+    <list default="true" id="160281e9-558c-4c71-800f-24b55d945c2e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/apps/account/models.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-187">
-              <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+              <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -180,7 +167,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="248" />
     <option name="y" value="107" />
     <option name="width" value="1938" />
@@ -314,7 +301,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -542,7 +529,7 @@
     <entry file="file://$PROJECT_DIR$/apps/account/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-187">
-          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
           <folding />
         </state>
       </provider>
