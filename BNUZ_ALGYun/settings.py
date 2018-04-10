@@ -41,7 +41,10 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    'apps.blog', #注册app
+    # 注册app
+    'apps.blog',
+    'apps.account',
+
     'django_summernote' #注册富文本编辑器
 ]
 
