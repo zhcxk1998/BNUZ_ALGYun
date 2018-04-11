@@ -44,7 +44,6 @@ INSTALLED_APPS = [
     # 注册app
     'apps.blog',
     'apps.account',
-    'apps.errorPage',
 
     'django_summernote' #注册富文本编辑器
 ]

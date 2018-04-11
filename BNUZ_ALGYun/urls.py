@@ -16,8 +16,8 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from apps.blog import views as blog_views
-from apps.errorPage import views as error_views
-from django.conf.urls import include, handler404, handler400
+
+from django.conf.urls import include, handler404
 from django.conf import settings
 from django.conf.urls.static import static
 
@@ -31,7 +31,6 @@ urlpatterns = [
     path('jet/dashboard/', include('jet.dashboard.urls', 'jet-dashboard')),  # Django JET dashboard URLS
 ]
 
-handler400 = error_views.page_not_found
 
 if settings.DEBUG:
     urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
