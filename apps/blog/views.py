@@ -1,4 +1,4 @@
-from django.shortcuts import render
+from django.shortcuts import render, render_to_response
 from apps.blog.models import Article
 from django.core.paginator import Paginator, PageNotAnInteger, EmptyPage
 from django.http import Http404
