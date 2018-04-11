@@ -2,44 +2,364 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="160281e9-558c-4c71-800f-24b55d945c2e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/css/animate.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/css/bootstrap.min.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/css/style.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/css/style.css.map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/fonts/bootstrap/glyphicons-halflings-regular.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/fonts/bootstrap/glyphicons-halflings-regular.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/fonts/bootstrap/glyphicons-halflings-regular.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/fonts/bootstrap/glyphicons-halflings-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/fonts/bootstrap/glyphicons-halflings-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/fonts/icomoon/icomoon.eot" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/fonts/icomoon/icomoon.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/fonts/icomoon/icomoon.ttf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/fonts/icomoon/icomoon.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/images/404.svg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/js/bootstrap.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/js/jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/js/jquery.vide.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/js/jquery.waypoints.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/js/main.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/js/modernizr-2.6.2.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/js/respond.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/sass/style.scss" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/video/Crocodile.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/video/Crocodile.mp4" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/video/Crocodile.ogv" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/video/Crocodile.webm" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/404Page/video/index.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/BNUZ_ALGYun/settings.py" afterPath="$PROJECT_DIR$/BNUZ_ALGYun/settings.py" />
-      <change beforePath="$PROJECT_DIR$/BNUZ_ALGYun/urls.py" afterPath="$PROJECT_DIR$/BNUZ_ALGYun/urls.py" />
-      <change beforePath="$PROJECT_DIR$/apps/errorPage/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apps/errorPage/admin.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apps/errorPage/apps.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apps/errorPage/migrations/__init__.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apps/errorPage/models.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apps/errorPage/tests.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/apps/errorPage/views.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/404.html" afterPath="$PROJECT_DIR$/404page/404.html" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/css/animate.css" afterPath="$PROJECT_DIR$/404page/css/animate.css" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/404page/css/bootstrap.min.css" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/css/style.css" afterPath="$PROJECT_DIR$/404page/css/style.css" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/css/style.css.map" afterPath="$PROJECT_DIR$/404page/css/style.css.map" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/fonts/bootstrap/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/404page/fonts/bootstrap/glyphicons-halflings-regular.eot" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/fonts/bootstrap/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/404page/fonts/bootstrap/glyphicons-halflings-regular.svg" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/404page/fonts/bootstrap/glyphicons-halflings-regular.ttf" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/fonts/bootstrap/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/404page/fonts/bootstrap/glyphicons-halflings-regular.woff" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/404page/fonts/bootstrap/glyphicons-halflings-regular.woff2" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/fonts/icomoon/icomoon.eot" afterPath="$PROJECT_DIR$/404page/fonts/icomoon/icomoon.eot" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/fonts/icomoon/icomoon.svg" afterPath="$PROJECT_DIR$/404page/fonts/icomoon/icomoon.svg" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/fonts/icomoon/icomoon.ttf" afterPath="$PROJECT_DIR$/404page/fonts/icomoon/icomoon.ttf" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/fonts/icomoon/icomoon.woff" afterPath="$PROJECT_DIR$/404page/fonts/icomoon/icomoon.woff" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/images/404.svg" afterPath="$PROJECT_DIR$/404page/images/404.svg" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/404page/js/bootstrap.min.js" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/js/jquery.min.js" afterPath="$PROJECT_DIR$/404page/js/jquery.min.js" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/js/jquery.vide.min.js" afterPath="$PROJECT_DIR$/404page/js/jquery.vide.min.js" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/js/jquery.waypoints.min.js" afterPath="$PROJECT_DIR$/404page/js/jquery.waypoints.min.js" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/js/main.js" afterPath="$PROJECT_DIR$/404page/js/main.js" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/js/modernizr-2.6.2.min.js" afterPath="$PROJECT_DIR$/404page/js/modernizr-2.6.2.min.js" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/js/respond.min.js" afterPath="$PROJECT_DIR$/404page/js/respond.min.js" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/sass/style.scss" afterPath="$PROJECT_DIR$/404page/sass/style.scss" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/video/Crocodile.jpg" afterPath="$PROJECT_DIR$/404page/video/Crocodile.jpg" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/video/Crocodile.mp4" afterPath="$PROJECT_DIR$/404page/video/Crocodile.mp4" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/video/Crocodile.ogv" afterPath="$PROJECT_DIR$/404page/video/Crocodile.ogv" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/video/Crocodile.webm" afterPath="$PROJECT_DIR$/404page/video/Crocodile.webm" />
-      <change beforePath="$PROJECT_DIR$/templates/404page/video/index.html" afterPath="$PROJECT_DIR$/404page/video/index.html" />
+      <change beforePath="$PROJECT_DIR$/404page/404.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/css/animate.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/css/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/css/style.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/fonts/bootstrap/glyphicons-halflings-regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/fonts/bootstrap/glyphicons-halflings-regular.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/fonts/bootstrap/glyphicons-halflings-regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/fonts/icomoon/icomoon.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/fonts/icomoon/icomoon.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/fonts/icomoon/icomoon.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/fonts/icomoon/icomoon.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/images/404.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/js/jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/js/jquery.vide.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/js/jquery.waypoints.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/js/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/js/modernizr-2.6.2.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/js/respond.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/sass/style.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/video/Crocodile.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/video/Crocodile.mp4" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/video/Crocodile.ogv" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/video/Crocodile.webm" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/404page/video/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change beforePath="$PROJECT_DIR$/static/jet.dashboard/dashboard_modules/google_analytics.js" afterPath="$PROJECT_DIR$/static/jet.dashboard/dashboard_modules/google_analytics.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet.dashboard/dashboard_modules/yandex_metrika.js" afterPath="$PROJECT_DIR$/static/jet.dashboard/dashboard_modules/yandex_metrika.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet.dashboard/vendor/chart.js/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/static/jet.dashboard/vendor/chart.js/CONTRIBUTING.md" />
+      <change beforePath="$PROJECT_DIR$/static/jet.dashboard/vendor/chart.js/Chart.js" afterPath="$PROJECT_DIR$/static/jet.dashboard/vendor/chart.js/Chart.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet.dashboard/vendor/chart.js/Chart.min.js" afterPath="$PROJECT_DIR$/static/jet.dashboard/vendor/chart.js/Chart.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet.dashboard/vendor/chart.js/LICENSE.md" afterPath="$PROJECT_DIR$/static/jet.dashboard/vendor/chart.js/LICENSE.md" />
+      <change beforePath="$PROJECT_DIR$/static/jet.dashboard/vendor/chart.js/README.md" afterPath="$PROJECT_DIR$/static/jet.dashboard/vendor/chart.js/README.md" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/green/_variables.scss" afterPath="$PROJECT_DIR$/static/jet/css/themes/green/_variables.scss" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/green/jquery-ui.theme.scss" afterPath="$PROJECT_DIR$/static/jet/css/themes/green/jquery-ui.theme.scss" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/green/select2.theme.css" afterPath="$PROJECT_DIR$/static/jet/css/themes/green/select2.theme.css" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/green/select2.theme.scss" afterPath="$PROJECT_DIR$/static/jet/css/themes/green/select2.theme.scss" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-blue/_variables.scss" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/_variables.scss" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-blue/base.css" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/base.css" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-blue/base.scss" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/base.scss" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-blue/jquery-ui.theme.css" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/jquery-ui.theme.css" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-blue/jquery-ui.theme.scss" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/jquery-ui.theme.scss" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-blue/select2.theme.css" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/select2.theme.css" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-blue/select2.theme.scss" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-blue/select2.theme.scss" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-gray/_variables.scss" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/_variables.scss" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-gray/base.css" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/base.css" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-gray/base.scss" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/base.scss" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-gray/jquery-ui.theme.css" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/jquery-ui.theme.css" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-gray/jquery-ui.theme.scss" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/jquery-ui.theme.scss" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-gray/select2.theme.css" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/select2.theme.css" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-gray/select2.theme.scss" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-gray/select2.theme.scss" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-green/_variables.scss" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-green/_variables.scss" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-green/base.css" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-green/base.css" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-green/base.scss" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-green/base.scss" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-green/jquery-ui.theme.css" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-green/jquery-ui.theme.css" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-green/jquery-ui.theme.scss" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-green/jquery-ui.theme.scss" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-green/select2.theme.css" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-green/select2.theme.css" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-green/select2.theme.scss" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-green/select2.theme.scss" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-violet/_variables.scss" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-violet/_variables.scss" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-violet/base.css" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-violet/base.css" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-violet/base.scss" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-violet/base.scss" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-violet/jquery-ui.theme.css" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-violet/jquery-ui.theme.css" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-violet/jquery-ui.theme.scss" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-violet/jquery-ui.theme.scss" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-violet/select2.theme.css" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-violet/select2.theme.css" />
+      <change beforePath="$PROJECT_DIR$/static/jet/css/themes/light-violet/select2.theme.scss" afterPath="$PROJECT_DIR$/static/jet/css/themes/light-violet/select2.theme.scss" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/build/bundle.min.js" afterPath="$PROJECT_DIR$/static/jet/js/build/bundle.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-cs.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-cs.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-de.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-de.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-es.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-es.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-fr.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-fr.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-hr.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-hr.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-hu.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-hu.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-it.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-it.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-ja.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-ja.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-mk.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-mk.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-nl.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-nl.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-pl.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-pl.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-pt-BR.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-pt-BR.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-ru.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-ru.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-sl.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-sl.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-sv.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui-timepicker/jquery.ui.timepicker-sv.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-af.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-af.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-ar-DZ.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-ar-DZ.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-ar.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-ar.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-az.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-az.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-be.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-be.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-bg.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-bg.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-bs.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-bs.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-ca.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-ca.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-cs.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-cs.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-cy-GB.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-cy-GB.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-da.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-da.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-de.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-de.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-el.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-el.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-en-AU.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-en-AU.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-en-GB.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-en-GB.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-en-NZ.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-en-NZ.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-eo.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-eo.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-es.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-es.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-et.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-et.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-eu.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-eu.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-fa.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-fa.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-fi.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-fi.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-fo.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-fo.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-fr-CA.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-fr-CA.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-fr-CH.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-fr-CH.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-fr.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-fr.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-gl.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-gl.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-he.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-he.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-hi.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-hi.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-hr.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-hr.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-hu.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-hu.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-hy.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-hy.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-id.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-id.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-is.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-is.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-it-CH.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-it-CH.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-it.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-it.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-ja.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-ja.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-ka.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-ka.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-kk.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-kk.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-km.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-km.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-ko.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-ko.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-ky.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-ky.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-lb.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-lb.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-lt.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-lt.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-lv.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-lv.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-mk.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-mk.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-ml.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-ml.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-ms.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-ms.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-nb.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-nb.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-nl-BE.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-nl-BE.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-nl.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-nl.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-nn.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-nn.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-no.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-no.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-pl.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-pl.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-pt-BR.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-pt-BR.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-pt.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-pt.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-rm.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-rm.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-ro.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-ro.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-ru.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-ru.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-sk.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-sk.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-sl.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-sl.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-sq.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-sq.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-sr-SR.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-sr-SR.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-sr.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-sr.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-sv.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-sv.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-ta.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-ta.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-th.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-th.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-tj.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-tj.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-tr.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-tr.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-uk.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-uk.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-vi.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-vi.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-zh-CN.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-zh-CN.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-zh-HK.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-zh-HK.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-zh-TW.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/jquery-ui/datepicker-zh-TW.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/az.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/az.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/bg.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/bg.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/ca.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/ca.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/cs.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/cs.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/da.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/da.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/de.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/de.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/en.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/en.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/es.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/es.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/et.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/et.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/eu.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/eu.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/fa.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/fa.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/fi.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/fi.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/fr.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/fr.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/gl.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/gl.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/he.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/he.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/hi.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/hi.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/hr.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/hr.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/hu.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/hu.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/id.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/id.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/is.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/is.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/it.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/it.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/ko.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/ko.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/lt.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/lt.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/lv.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/lv.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/mk.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/mk.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/nb.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/nb.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/nl.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/nl.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/pl.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/pl.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/pt-BR.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/pt-BR.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/pt.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/pt.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/ro.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/ro.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/ru.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/ru.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/sk.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/sk.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/sr.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/sr.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/sv.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/sv.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/th.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/th.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/tr.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/tr.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/uk.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/uk.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/vi.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/vi.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/zh-CN.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/zh-CN.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/i18n/select2/zh-TW.js" afterPath="$PROJECT_DIR$/static/jet/js/i18n/select2/zh-TW.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/features/changeform-tabs.js" afterPath="$PROJECT_DIR$/static/jet/js/src/features/changeform-tabs.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/features/changeform.js" afterPath="$PROJECT_DIR$/static/jet/js/src/features/changeform.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/features/changelist.js" afterPath="$PROJECT_DIR$/static/jet/js/src/features/changelist.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/features/checkboxes.js" afterPath="$PROJECT_DIR$/static/jet/js/src/features/checkboxes.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/features/compact-inline.js" afterPath="$PROJECT_DIR$/static/jet/js/src/features/compact-inline.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/features/dashboard.js" afterPath="$PROJECT_DIR$/static/jet/js/src/features/dashboard.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/features/date-time-widgets.js" afterPath="$PROJECT_DIR$/static/jet/js/src/features/date-time-widgets.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/features/filters.js" afterPath="$PROJECT_DIR$/static/jet/js/src/features/filters.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/features/inlines.js" afterPath="$PROJECT_DIR$/static/jet/js/src/features/inlines.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/features/related-popups.js" afterPath="$PROJECT_DIR$/static/jet/js/src/features/related-popups.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/features/scroll-to-bottom-detector.js" afterPath="$PROJECT_DIR$/static/jet/js/src/features/scroll-to-bottom-detector.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/features/selects.js" afterPath="$PROJECT_DIR$/static/jet/js/src/features/selects.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/features/siblings.js" afterPath="$PROJECT_DIR$/static/jet/js/src/features/siblings.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/features/sidebar/application-pinning.js" afterPath="$PROJECT_DIR$/static/jet/js/src/features/sidebar/application-pinning.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/features/sidebar/bookmarks.js" afterPath="$PROJECT_DIR$/static/jet/js/src/features/sidebar/bookmarks.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/features/sidebar/main.js" afterPath="$PROJECT_DIR$/static/jet/js/src/features/sidebar/main.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/features/sidebar/popup.js" afterPath="$PROJECT_DIR$/static/jet/js/src/features/sidebar/popup.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/features/themes.js" afterPath="$PROJECT_DIR$/static/jet/js/src/features/themes.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/features/tooltips.js" afterPath="$PROJECT_DIR$/static/jet/js/src/features/tooltips.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/features/touchmove-non-scrollable.js" afterPath="$PROJECT_DIR$/static/jet/js/src/features/touchmove-non-scrollable.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/actions.js" afterPath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/actions.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/branding.js" afterPath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/branding.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/breadcrumbs.js" afterPath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/breadcrumbs.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/changeform-tabs.js" afterPath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/changeform-tabs.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/delete-confirmation.js" afterPath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/delete-confirmation.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/icons.js" afterPath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/icons.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/object-tools.js" afterPath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/object-tools.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/paginator.js" afterPath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/paginator.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/related-widget-wrapper.js" afterPath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/related-widget-wrapper.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/stacked-inline.js" afterPath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/stacked-inline.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/tabular-inline.js" afterPath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/tabular-inline.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/toolbar.js" afterPath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/toolbar.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/user-tools.js" afterPath="$PROJECT_DIR$/static/jet/js/src/layout-updaters/user-tools.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/main.js" afterPath="$PROJECT_DIR$/static/jet/js/src/main.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/utils/jquery-icontains.js" afterPath="$PROJECT_DIR$/static/jet/js/src/utils/jquery-icontains.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/utils/jquery-slidefade.js" afterPath="$PROJECT_DIR$/static/jet/js/src/utils/jquery-slidefade.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/utils/translate.js" afterPath="$PROJECT_DIR$/static/jet/js/src/utils/translate.js" />
+      <change beforePath="$PROJECT_DIR$/static/jet/js/src/utils/window-storage.js" afterPath="$PROJECT_DIR$/static/jet/js/src/utils/window-storage.js" />
+      <change beforePath="$PROJECT_DIR$/static/range_filter/css/style.css" afterPath="$PROJECT_DIR$/static/range_filter/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/ResizeSensor.js" afterPath="$PROJECT_DIR$/static/summernote/ResizeSensor.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/SOURCE" afterPath="$PROJECT_DIR$/static/summernote/SOURCE" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/django_summernote.css" afterPath="$PROJECT_DIR$/static/summernote/django_summernote.css" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/django_summernote_inplace.css" afterPath="$PROJECT_DIR$/static/summernote/django_summernote_inplace.css" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/jquery.fileupload.js" afterPath="$PROJECT_DIR$/static/summernote/jquery.fileupload.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/jquery.iframe-transport.js" afterPath="$PROJECT_DIR$/static/summernote/jquery.iframe-transport.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/jquery.ui.widget.js" afterPath="$PROJECT_DIR$/static/summernote/jquery.ui.widget.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-ar-AR.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-ar-AR.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-ar-AR.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-ar-AR.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-bg-BG.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-bg-BG.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-bg-BG.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-bg-BG.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-ca-ES.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-ca-ES.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-ca-ES.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-ca-ES.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-cs-CZ.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-cs-CZ.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-cs-CZ.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-cs-CZ.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-da-DK.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-da-DK.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-da-DK.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-da-DK.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-de-DE.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-de-DE.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-de-DE.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-de-DE.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-el-GR.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-el-GR.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-el-GR.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-el-GR.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-es-ES.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-es-ES.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-es-ES.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-es-ES.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-es-EU.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-es-EU.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-es-EU.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-es-EU.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-fa-IR.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-fa-IR.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-fa-IR.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-fa-IR.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-fi-FI.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-fi-FI.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-fi-FI.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-fi-FI.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-fr-FR.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-fr-FR.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-fr-FR.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-fr-FR.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-gl-ES.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-gl-ES.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-gl-ES.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-gl-ES.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-he-IL.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-he-IL.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-he-IL.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-he-IL.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-hr-HR.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-hr-HR.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-hr-HR.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-hr-HR.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-hu-HU.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-hu-HU.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-hu-HU.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-hu-HU.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-id-ID.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-id-ID.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-id-ID.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-id-ID.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-it-IT.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-it-IT.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-it-IT.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-it-IT.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-ja-JP.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-ja-JP.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-ja-JP.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-ja-JP.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-ko-KR.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-ko-KR.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-ko-KR.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-ko-KR.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-lt-LT.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-lt-LT.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-lt-LT.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-lt-LT.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-lt-LV.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-lt-LV.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-lt-LV.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-lt-LV.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-mn-MN.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-mn-MN.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-mn-MN.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-mn-MN.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-nb-NO.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-nb-NO.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-nb-NO.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-nb-NO.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-nl-NL.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-nl-NL.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-nl-NL.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-nl-NL.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-pl-PL.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-pl-PL.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-pl-PL.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-pl-PL.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-pt-BR.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-pt-BR.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-pt-BR.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-pt-BR.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-pt-PT.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-pt-PT.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-pt-PT.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-pt-PT.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-ro-RO.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-ro-RO.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-ro-RO.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-ro-RO.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-ru-RU.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-ru-RU.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-ru-RU.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-ru-RU.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-sk-SK.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-sk-SK.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-sk-SK.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-sk-SK.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-sl-SI.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-sl-SI.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-sl-SI.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-sl-SI.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-sr-RS-Latin.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-sr-RS-Latin.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-sr-RS-Latin.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-sr-RS-Latin.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-sr-RS.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-sr-RS.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-sr-RS.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-sr-RS.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-sv-SE.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-sv-SE.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-sv-SE.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-sv-SE.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-ta-IN.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-ta-IN.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-ta-IN.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-ta-IN.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-th-TH.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-th-TH.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-th-TH.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-th-TH.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-tr-TR.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-tr-TR.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-tr-TR.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-tr-TR.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-uk-UA.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-uk-UA.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-uk-UA.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-uk-UA.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-vi-VN.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-vi-VN.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-vi-VN.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-vi-VN.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-zh-CN.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-zh-CN.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-zh-CN.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-zh-CN.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-zh-TW.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-zh-TW.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/lang/summernote-zh-TW.min.js" afterPath="$PROJECT_DIR$/static/summernote/lang/summernote-zh-TW.min.js" />
+      <change beforePath="$PROJECT_DIR$/static/summernote/summernote.min.js" afterPath="$PROJECT_DIR$/static/summernote/summernote.min.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,18 +376,18 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BNUZ_ALGYun/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state relative-caret-position="360">
+              <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/account/models.py">
+      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="517">
-              <caret line="24" column="63" lean-forward="false" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -85,11 +405,31 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="24" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apps/blog/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apps/blog/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+            <state relative-caret-position="600">
+              <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
               <folding>
                 <element signature="e#0#55#0" expanded="true" />
               </folding>
@@ -109,16 +449,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/apps/account/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/apps/blog/admin.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -127,6 +457,16 @@
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="404.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/404.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="73" column="22" lean-forward="false" selection-start-line="73" selection-start-column="22" selection-end-line="74" selection-end-column="22" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -150,13 +490,15 @@
         <option value="$PROJECT_DIR$/apps/blog/models.py" />
         <option value="$PROJECT_DIR$/templates/post.html" />
         <option value="$PROJECT_DIR$/templates/home.html" />
-        <option value="$PROJECT_DIR$/templates/base.html" />
         <option value="$PROJECT_DIR$/apps/blog/admin.py" />
         <option value="$PROJECT_DIR$/apps/account/admin.py" />
         <option value="$PROJECT_DIR$/apps/account/models.py" />
         <option value="$PROJECT_DIR$/apps/blog/views.py" />
         <option value="$PROJECT_DIR$/apps/errorPage/views.py" />
         <option value="$PROJECT_DIR$/BNUZ_ALGYun/urls.py" />
+        <option value="$PROJECT_DIR$/404page/404.html" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/templates/404.html" />
         <option value="$PROJECT_DIR$/BNUZ_ALGYun/settings.py" />
       </list>
     </option>
@@ -208,12 +550,6 @@
               <item name="BNUZ_ALGYun" type="b2602c69:ProjectViewProjectNode" />
               <item name="BNUZ_ALGYun" type="462c0819:PsiDirectoryNode" />
               <item name="apps" type="462c0819:PsiDirectoryNode" />
-              <item name="account" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BNUZ_ALGYun" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BNUZ_ALGYun" type="462c0819:PsiDirectoryNode" />
-              <item name="apps" type="462c0819:PsiDirectoryNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -225,6 +561,17 @@
               <item name="BNUZ_ALGYun" type="b2602c69:ProjectViewProjectNode" />
               <item name="BNUZ_ALGYun" type="462c0819:PsiDirectoryNode" />
               <item name="common_static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BNUZ_ALGYun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BNUZ_ALGYun" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BNUZ_ALGYun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BNUZ_ALGYun" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="404Page" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="BNUZ_ALGYun" type="b2602c69:ProjectViewProjectNode" />
@@ -539,14 +886,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="23" lean-forward="false" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/blogs/css/font-awesome.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -562,32 +901,6 @@
     <entry file="file://$PROJECT_DIR$/static/blogs/image/avatar.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="18" column="24" lean-forward="false" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/apps/blog/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="72" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#28#0" expanded="false" />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/apps/account/views.py">
@@ -621,14 +934,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/account/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="24" column="63" lean-forward="false" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/apps/errorPage/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -639,8 +944,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/404page/404.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="39" column="46" lean-forward="false" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
+        <state relative-caret-position="312">
+          <caret line="28" column="73" lean-forward="false" selection-start-line="28" selection-start-column="73" selection-end-line="28" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/account/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="24" column="63" lean-forward="false" selection-start-line="24" selection-start-column="63" selection-end-line="24" selection-end-column="63" />
           <folding />
         </state>
       </provider>
@@ -655,6 +976,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/apps/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="38" column="20" lean-forward="true" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/post.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/blog/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/apps/account/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -665,20 +1012,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/apps/blog/views.py">
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#55#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="552">
+          <caret line="23" column="42" lean-forward="true" selection-start-line="23" selection-start-column="42" selection-end-line="24" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="73" column="22" lean-forward="false" selection-start-line="73" selection-start-column="22" selection-end-line="74" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BNUZ_ALGYun/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="360">
+          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
           <folding />
         </state>
       </provider>
