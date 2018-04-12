@@ -9,7 +9,8 @@ class User(models.Model):
     email = models.EmailField(verbose_name='邮箱')
 
     class Meta:
-        verbose_name_plural = '用户'
+        verbose_name = '用户'
+        verbose_name_plural = '用户列表'
         db_table = 'user'
     def __str__(self):
         return self.username
