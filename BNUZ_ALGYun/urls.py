@@ -17,6 +17,7 @@ from django.contrib import admin
 from django.urls import path
 from apps.blog import views as blog_views
 from apps.account import urls as account_urls
+from django.views.generic import TemplateView
 from django.conf.urls import include
 from django.conf import settings
 from django.conf.urls.static import static
@@ -27,8 +28,9 @@ urlpatterns = [
     path('home/', blog_views.home, name='home'),
     path('articles/<int:id>/', blog_views.detail, name='detail'),
     path('user/', include(account_urls, namespace='my_user')),
+    path('robots.txt/', TemplateView.as_view(template_name='robots.txt', content_type='text/plain')),
     path('summernote/', include('django_summernote.urls')),
-    path('jet/', include('jet.urls', 'jet')),  # Django JET URLS
+    path('jet/', include('jet.urls', 'jet')),  # Django JET URL
     path('jet/dashboard/', include('jet.dashboard.urls', 'jet-dashboard')),  # Django JET dashboard URLS
 ]
 
