@@ -16,8 +16,8 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 from apps.blog import views as blog_views
-
-from django.conf.urls import include, handler404
+from apps.account import urls as account_urls
+from django.conf.urls import include
 from django.conf import settings
 from django.conf.urls.static import static
 
@@ -26,6 +26,7 @@ urlpatterns = [
     path('', blog_views.home, name='home'),
     path('home/', blog_views.home, name='home'),
     path('articles/<int:id>/', blog_views.detail, name='detail'),
+    path('user/', include(account_urls, namespace='my_user')),
     path('summernote/', include('django_summernote.urls')),
     path('jet/', include('jet.urls', 'jet')),  # Django JET URLS
     path('jet/dashboard/', include('jet.dashboard.urls', 'jet-dashboard')),  # Django JET dashboard URLS
