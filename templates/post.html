@@ -15,10 +15,10 @@
                         浏览次数：{{ post.views }}
                     </p>
             </header>
-
+                <!--文章内容-->
                 <div class="post-description">
                     <p>
-                        {{ post.content }}
+                        {{ post.content | striptags }}
                     </p>
                 </div>
         </section>

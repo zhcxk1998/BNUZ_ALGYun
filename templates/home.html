@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 {% load static %}
 {% block content %}
+    {#内容显示块#}
     <div class="posts">
         {% for post in post_list %}
             <section class="post">
@@ -27,6 +28,8 @@
             </section>
         {% endfor %}
     </div><!-- /.blog-post -->
+
+
     {% if post_list.object_list and post_list.paginator.num_pages > 1 %}
         <div>
             {% if post_list.has_previous %}
