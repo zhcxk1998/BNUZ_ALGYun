@@ -60,8 +60,8 @@
 
   <body>
 
-    <div class="container" method = 'post' enctype="{%url "my_user:my_register" %}">
-      <form class="form-signin">
+    <div class="container">
+      <form class="form-signin" method = 'post' enctype="{%url "my_user:my_register" %}">
           {% csrf_token %}
           {{userform.as_p}}
         <input type="submit" value = "Regist" />

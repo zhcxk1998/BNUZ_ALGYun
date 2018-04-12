@@ -1,5 +1,6 @@
 from django.db import models
 from django.utils.timezone import now
+from apps.account.models import User
 # Create your models here.
 class Tag(models.Model):
     name = models.CharField(verbose_name='标签名', max_length=64)
@@ -38,6 +39,7 @@ class Article(models.Model):
         ('d', '草稿'),
         ('p', '发表'),
     )
+    # authors = models.ForeignKey(User, verbose_name='作者', on_delete=models.CASCADE, default=None)
     title = models.CharField(verbose_name='标题', max_length=100)
     content = models.TextField(verbose_name='正文', blank=True, null=True)
     status = models.CharField(verbose_name='状态', max_length=1, choices=STATUS_CHOICES, default='p')

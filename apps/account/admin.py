@@ -3,4 +3,7 @@ from django.db import models
 from .models import User
 # Register your models here.
 
-admin.site.register(User)
+class Display(admin.ModelAdmin):
+    list_display = ('username', 'email')
+
+admin.site.register(User, Display)

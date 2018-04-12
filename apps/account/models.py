@@ -11,3 +11,5 @@ class User(models.Model):
     class Meta:
         verbose_name_plural = '用户'
         db_table = 'user'
+    def __str__(self):
+        return self.username
